@@ -1,5 +1,9 @@
 ```markdown
 # Altosphere
+done by:
+Mohit Raval
+Dhruv Sompura
+Aman Singh
 
 ## Overview
 **Altosphere** is an AI-driven mapping project that leverages the power of foundation models to create high-resolution maps from aerial imagery. Inspired by Atlas, the Greek god of maps, Altosphere aims to elevate the standards of geographic mapping and provide valuable insights for urban planning, environmental monitoring, and disaster response.
